@@ -20,6 +20,7 @@ Realitza un *fork* del projecte que es troba a: <https://github.com/arturocandel
 ![Refactor Package Screenshoot 1](md_media/1.JPG)
 ![Refactor Package Screenshoot 2](md_media/1.1.JPG)
 ![Refactor Package Screenshoot 2](md_media/1.2.JPG)
+-El primer push se ha realizado en la rama main, por lo que el primer ejercicio estara tambien en la rama main.
 
 ## 2. **Refactoritza** el codi font de la següent forma: ( Fes les captures de totes les finestres que ixen)
 

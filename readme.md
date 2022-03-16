@@ -40,6 +40,10 @@ Canvia el nom de les classes:
 * School -> Intitut
 * Persona -> Alumne
 
+>Para poder realizar el cambio unicamente hacemos click derecho sobre la variable que deseamos cambiar y seleccionamos "Refactor" y "Rename" a el nuevo nombre que deseamos cambiar, tambien se nos da la opcion de poder cambiar la variable en los Strings. El procedimiento para cambiar el nombre de las clases es identico.
+![Refactor Image Variable](md_media/2.1.JPG)
+![Refactor Image Final(md_media/2.3.JPG)
+
 ## 3. En el mètode `main()`, **refactoritza**
 
 Extrau les cadenes i números a constants de classe amb els següents noms: (Fes **captures** de totes les finestres que ixen)

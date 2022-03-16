@@ -54,15 +54,17 @@ Extrau les cadenes i números a constants de classe amb els següents noms: (Fes
 2019 -> `ANY`
 
 >Para poder extraer constantes utilizamos "Refactor" y de ahi usamos la opcion "Extract Constant", a partir de ahi se cambia el nombre y el programa te permite cambiar si la constante es publica, provada... En este caso se ha elegido "private" 
-![Refactor Image Constant(md_media/3.JPG)]
-![Refactor Image Final(md_media/3.1.JPG)]
+
+![Refactor Image Constant](md_media/3.JPG)
+
+![Refactor Image Final](md_media/3.1.JPG)
 
 ## 4. Executa el programa i fes una captura en consola
 
 ( D'aquest apartat no es necessari fer un commit a menys que faltara algo del commit anterior)
 
-![Refactor Image Final(md_media/4.JPG)]
+![Refactor Image Final](md_media/4.JPG)
 ## 5. Fes una captura del codi font resultant després de refactoritzar
 
 ( D'aquest apartat no es necessari fer un commit a menys que faltara algo del commit anterior)
-![Refactor Image Final(md_media/5.JPG)]
+![Refactor Image Final](md_media/5.JPG)

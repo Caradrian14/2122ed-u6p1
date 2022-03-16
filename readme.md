@@ -61,6 +61,10 @@ Extrau les cadenes i números a constants de classe amb els següents noms: (Fes
 
 ( D'aquest apartat no es necessari fer un commit a menys que faltara algo del commit anterior)
 
+![Refactor Image Final(md_media/4.JPG)]
+
 ## 5. Fes una captura del codi font resultant després de refactoritzar
 
 ( D'aquest apartat no es necessari fer un commit a menys que faltara algo del commit anterior)
+
+![Refactor Image Final(md_media/5.JPG)]

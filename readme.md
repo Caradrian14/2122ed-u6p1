@@ -16,7 +16,10 @@ Realitza un *fork* del projecte que es troba a: <https://github.com/arturocandel
 * Reanomena el paquet `ed.arturo` a `ed.<elteunom>`
 * Reanomena les cadenes que es troben definides al mètode `main` de la classe `School`.
 
-> Executa el codi i fes una captura del resultat en consola.
+> Para realizar la actividad hay que usar el refacor de Eclipse, para ello usando click derecho sobre el paquete ed.arturo y seleccionamos "Refactor" y a continuacion "rename", a continuacion cambiamos el nombre de ed.arturo a ed.adria ( en mi caso). Para la siguient parte unicamente se accede a las strings situados ne el metodo main de la clase School.java y se cambian a mis datos como se puede ver en las imagenes anexas.
+![Refactor Package Screenshoot 1](md_media/1.JPG)
+![Refactor Package Screenshoot 2](md_media/1.1.JPG)
+![Refactor Package Screenshoot 2](md_media/1.2.JPG)
 
 ## 2. **Refactoritza** el codi font de la següent forma: ( Fes les captures de totes les finestres que ixen)
 

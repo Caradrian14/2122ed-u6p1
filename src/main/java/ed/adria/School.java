@@ -1,4 +1,4 @@
-package ed.arturo;
+package ed.adria;
 
 public class School {
 
@@ -6,10 +6,10 @@ public class School {
 		
 		Persona p = new Persona();
 		
-		p.n = "Arturo";
-		p.c = "Candela";
-		p.cl = "1º DAM/DAW";
-		p.a = 2021;
+		p.n = "Adria";
+		p.c = "Jorda";
+		p.cl = "1º DAW";
+		p.a = 2022;
 		
 		System.out.println(p.toString());
 
